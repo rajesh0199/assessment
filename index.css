@@ -1,0 +1,233 @@
+.header_contact{
+    display: flex;
+    background-color: #C0C0C0;
+    height: 50px;
+}
+.header_contact_text{
+    margin-left: 250px;
+    margin-top: 10px;
+    font-family: "Roboto";
+}
+.header_contact_email_box{
+    margin-left: 380px;
+    margin-top: 10px;
+}
+.header_contact_call_box{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.font_style{
+    font-family: "Roboto";
+}
+.header{
+    display: flex;
+    height: 70px;
+}
+.header_img{
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.header_text{
+    font-family: "Roboto";
+    font-weight: bolder;
+    font-size: 20px;
+}
+.headertexts{
+    margin-left: 390px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+}
+.header_about{
+    color: 	#FFD700;
+    font-family: "Roboto";
+}
+.beach_backgroung{
+    padding-left: 250px;
+    padding-top: 130px;
+    height: 500px;
+    background-size: cover;
+    background-image: url("https://images8.alphacoders.com/386/thumb-1920-386749.jpg");
+}
+.beach_text{
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bolder;
+}
+.beach_para{
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+.beach_btn{
+    margin-top: 20px;
+}
+.rounds{
+    display: flex;
+    width: 70px;
+    margin-left: 360px;
+    margin-top: 70px;
+    justify-content: space-around;
+}
+.round_1{
+    width: 12px;
+    height: 12px;
+    border: #FFD700 2px solid;
+    border-radius: 10px;
+}
+.beach_content{
+     height: 80px;
+     display: flex;
+     padding-top: 20px;
+     background-color: #FFD700;
+}
+.beach_para_1{
+    color: white;
+    font-family: "Roboto";
+    padding-left: 230px;
+    font-size: 20px;
+}
+.contact{
+    text-decoration: underline;
+    color: black;
+    font-size: 20px;
+}
+.beach_btn_1{
+    margin-top: 5px;
+    margin-left: 250px;
+}
+.land_box{
+    display: flex;
+    margin-top: 60px;
+}
+.land_img{
+    background-size: cover;
+    background-image: url("https://media.istockphoto.com/photos/landscape-on-planet-mars-scenic-desert-scene-on-the-red-planet-picture-id977818320?b=1&k=20&m=977818320&s=170667a&w=0&h=Cr4ktsjf4VJaNu_h3A-MBG06RwA6l5ti2cfVcvUN1EQ=");
+    width: 50%;
+    height: 450px;
+}
+.land_para{
+    height: 450px;
+    width: 50%;
+    background-color: #C0C0C0;
+}
+.land_para_1{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.land_para_padding{
+    padding-left: 30px;
+    font-family: "Roboto";
+}
+.general{
+    color: #FFD700;
+    font-family: "Roboto";
+    font-weight: bolder;
+}
+.general_1{
+    color: black;
+    font-family: "Roboto";
+    font-weight: bolder;
+}
+.works{
+    margin-top: 100px;
+}
+.works_head{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+.works_para{
+    text-align: center;
+}
+.texts{
+    display: flex;
+    width: 600px;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 27%;
+}
+.font_style_1{
+    font-family: "Roboto";
+    color: #FFD700;
+    text-decoration: underline;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+.img_1{
+    width: 421px;
+    height: 300px;
+    background-image: url("https://media.istockphoto.com/photos/low-angle-of-tall-building-in-manhattan-picture-id1291177121?b=1&k=20&m=1291177121&s=170667a&w=0&h=aI1PkWS_GkXJ4Qz0gz2cTOud95SS4hUa4iZc1kqWYL4=");
+    background-size: cover;
+}
+.img_2{
+    width: 421px;
+    height: 300px;
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/302769/pexels-photo-302769.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+.img_3{
+    width: 421px;
+    height: 300px;
+    background-size: cover;
+    background-image: url("https://imageio.forbes.com/specials-images/imageserve/5ed3f78b406024000722e753/People-walking-on-Virginia-beach-and-wading-in-the-water-/960x0.jpg?fit=bounds&format=jpg&width=960");
+}
+.img_4{
+    width: 421px;
+    height: 300px;
+    background-size: cover;
+    background-image: url("https://www.ocregister.com/wp-content/uploads/migration/okt/oktpb2-b88887921z.120170203155705000g4qlfqov.10.jpg");
+}
+.img_5{
+    width: 421px;
+    height: 300px;
+    background-size: cover;
+    background-image: url("https://images.unsplash.com/photo-1573269354259-8c108692afa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVvcGxlJTIwYXQlMjBiZWFjaHxlbnwwfHwwfHw%3D&w=1000&q=80");
+}
+.img_6{
+    width: 421px;
+    height: 300px;
+    background-size: cover;
+    background-image: url("https://cdn.britannica.com/10/152310-050-5A09D74A/Sand-dunes-Sahara-Morocco-Merzouga.jpg");
+}
+.h{
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.footer{
+    height: 40px;
+    display: flex;
+    background-color: darkgray;
+    padding-top: 10px;
+    margin-top: 30px;
+}
+.footer_head{
+    font-size: 15px;
+    font-family: "Roboto";
+    margin-bottom: 10px;
+    margin-left: 200px;
+    color: white;
+}
+.footer_para{
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    margin-left: 400px;
+}
+.footer_text{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: white;
+}
